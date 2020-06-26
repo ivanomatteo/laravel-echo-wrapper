@@ -4,10 +4,6 @@
   "description": "Laravel Echo client wrapper",
   "main": "EchoWrapper.js",
   "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git@git.laziomatica.com:segdipps/js-libs/laravel-echo-wrapper.git"
-  },
   "author": "",
   "license": "ISC"
 }
