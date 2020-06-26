@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "Laravel Echo client wrapper",
   "main": "EchoWrapper.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@git.laziomatica.com:segdipps/js-libs/laravel-echo-wrapper.git"
