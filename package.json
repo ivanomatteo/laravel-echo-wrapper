@@ -5,5 +5,10 @@
   "main": "EchoWrapper.js",
   "scripts": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "laravel-echo": "^1.8.0",
+    "pusher-js": "^6.0.3",
+    "socket.io-client": "^2.3.0"
+  }
 }
