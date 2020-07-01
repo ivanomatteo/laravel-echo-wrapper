@@ -1,6 +1,6 @@
 import Echo from "laravel-echo";
 
-export default class EchoWrapper {
+export class EchoWrapper {
     constructor(driver = "pusher") {
         this.statusListeners = {};
         this.listenersCount = 0;
